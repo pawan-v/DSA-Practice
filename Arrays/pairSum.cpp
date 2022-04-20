@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std ; 
 
+// Two numbers in array whose sum is equal to given target
+
 pair<int,int> pairSum(vector<int> arr,int target){
     int n = arr.size();
     unordered_set<int> s ;
