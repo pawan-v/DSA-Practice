@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
- 
+
+// https://leetcode.com/problems/increasing-triplet-subsequence/
+
 using namespace std ; 
 
 vector<vector<int>> triplet(vector<int> arr,int target){
